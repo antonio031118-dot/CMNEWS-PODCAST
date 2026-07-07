@@ -17,16 +17,16 @@
   </image>
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
-  <description>El periódico personal de Antonio, en audio: un resumen diario de las noticias más relevantes del mundo (geopolítica, gobierno, economía y mercados, deportes, ciencia y salud), en unos 10 minutos.</description>
+  <description>Un resumen diario de las noticias más relevantes del mundo: geopolítica, gobierno, economía y mercados, deportes, ciencia y salud, en unos 10 minutos.</description>
   <atom:link href="https://antonio031118-dot.github.io/CMNEWS-PODCAST/feed.xml" rel="self" type="application/rss+xml"/>
 
   <item>
-    <title>CMNEWS — Episodio de prueba (07/07/2026)</title>
-    <description>Primer episodio de prueba para verificar que el audio, el feed y la publicación funcionan correctamente antes de arrancar con los episodios diarios reales.</description>
+    <title>CMNEWS — 7 de julio de 2026</title>
+    <description>Tregua en el Estrecho de Ormuz y funerales por Jamenei, Ucrania, la cumbre de la OTAN, vivienda y coste de vida en España, mercados en máximos, gobernanza de la IA, el Mundial 2026 (España a cuartos), Wimbledon, y ciencia y salud.</description>
     <pubDate>Tue, 07 Jul 2026 09:00:00 +0200</pubDate>
-    <enclosure url="https://antonio031118-dot.github.io/CMNEWS-PODCAST/episodes/07-07-2026.mp3" length="38914" type="audio/mpeg"/>
-    <guid isPermaLink="false">cmnews-2026-07-07-test</guid>
-    <itunes:duration>00:00:04</itunes:duration>
+    <enclosure url="https://antonio031118-dot.github.io/CMNEWS-PODCAST/episodes/07-07-2026.mp3" length="8522231" type="audio/mpeg"/>
+    <guid isPermaLink="false">cmnews-2026-07-07</guid>
+    <itunes:duration>00:08:53</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
 
