@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>CMNEWS</title>
+  <link>https://antonio031118-dot.github.io/cmnews-podcast/</link>
+  <language>es</language>
+  <itunes:author>CMNEWS</itunes:author>
+  <itunes:owner>
+    <itunes:name>Antonio</itunes:name>
+    <itunes:email>antonio031118@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://antonio031118-dot.github.io/cmnews-podcast/cover.jpg"/>
+  <image>
+    <url>https://antonio031118-dot.github.io/cmnews-podcast/cover.jpg</url>
+    <title>CMNEWS</title>
+    <link>https://antonio031118-dot.github.io/cmnews-podcast/</link>
+  </image>
+  <itunes:category text="News"/>
+  <itunes:explicit>false</itunes:explicit>
+  <description>El periódico personal de Antonio, en audio: un resumen diario de las noticias más relevantes del mundo (geopolítica, gobierno, economía y mercados, deportes, ciencia y salud), en unos 10 minutos.</description>
+  <atom:link href="https://antonio031118-dot.github.io/cmnews-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>CMNEWS — Episodio de prueba (07/07/2026)</title>
+    <description>Primer episodio de prueba para verificar que el audio, el feed y la publicación funcionan correctamente antes de arrancar con los episodios diarios reales.</description>
+    <pubDate>Tue, 07 Jul 2026 09:00:00 +0200</pubDate>
+    <enclosure url="https://antonio031118-dot.github.io/cmnews-podcast/episodes/07-07-2026.mp3" length="38914" type="audio/mpeg"/>
+    <guid isPermaLink="false">cmnews-2026-07-07-test</guid>
+    <itunes:duration>00:00:04</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+</channel>
+</rss>
