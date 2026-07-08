@@ -26,6 +26,7 @@
     <pubDate>Wed, 08 Jul 2026 09:00:00 +0200</pubDate>
     <enclosure url="https://antonio031118-dot.github.io/CMNEWS-PODCAST/episodes/08-07-2026.mp3" length="7453510" type="audio/mpeg"/>
     <guid isPermaLink="false">cmnews-2026-07-08</guid>
+    <itunes:image href="https://antonio031118-dot.github.io/CMNEWS-PODCAST/cover-v2.jpg"/>
     <itunes:duration>00:07:46</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -36,6 +37,7 @@
     <pubDate>Tue, 07 Jul 2026 09:00:00 +0200</pubDate>
     <enclosure url="https://antonio031118-dot.github.io/CMNEWS-PODCAST/episodes/07-07-2026.mp3" length="8422339" type="audio/mpeg"/>
     <guid isPermaLink="false">cmnews-2026-07-07</guid>
+    <itunes:image href="https://antonio031118-dot.github.io/CMNEWS-PODCAST/cover-v2.jpg"/>
     <itunes:duration>00:08:46</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
