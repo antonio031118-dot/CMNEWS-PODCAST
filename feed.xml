@@ -21,6 +21,17 @@
   <atom:link href="https://antonio031118-dot.github.io/CMNEWS-PODCAST/feed.xml" rel="self" type="application/rss+xml"/>
 
   <item>
+    <title>CMNEWS — 9 de julio de 2026</title>
+    <description>Trump da la tregua con Irán por "terminada": nuevos ataques y represalias iraníes contra Baréin, Kuwait y Catar. Trump amenaza con romper el comercio con España. La OTAN cierra su cumbre con 70.000M para Ucrania. Le Pen condenada. Protestas de la Gen Z en India. Mundial: cuartos de final. Wimbledon: Sinner-Djokovic.</description>
+    <pubDate>Thu, 09 Jul 2026 09:00:00 +0200</pubDate>
+    <enclosure url="https://antonio031118-dot.github.io/CMNEWS-PODCAST/episodes/09-07-2026.mp3" length="5951364" type="audio/mpeg"/>
+    <guid isPermaLink="false">cmnews-2026-07-09</guid>
+    <itunes:image href="https://antonio031118-dot.github.io/CMNEWS-PODCAST/cover-v2.jpg"/>
+    <itunes:duration>00:06:12</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>CMNEWS — 8 de julio de 2026</title>
     <description>Se rompe la tregua en Irán: EE.UU. golpea 80+ objetivos y Teherán responde contra bases en Baréin y Kuwait. Bomba junto al hotel de Macron en Damasco. Wall Street corrige por los chips. Caso Koldo. Cuadro de cuartos del Mundial completo. Wimbledon: Djokovic-Sinner en semis.</description>
     <pubDate>Wed, 08 Jul 2026 09:00:00 +0200</pubDate>
